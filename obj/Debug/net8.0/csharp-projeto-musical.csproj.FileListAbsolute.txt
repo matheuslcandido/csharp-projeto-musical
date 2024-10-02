@@ -1,0 +1,15 @@
+/home/Matheus.Candido/matheuslcandido/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical
+/home/Matheus.Candido/matheuslcandido/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.deps.json
+/home/Matheus.Candido/matheuslcandido/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.runtimeconfig.json
+/home/Matheus.Candido/matheuslcandido/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.dll
+/home/Matheus.Candido/matheuslcandido/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.pdb
+/home/Matheus.Candido/matheuslcandido/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.GeneratedMSBuildEditorConfig.editorconfig
+/home/Matheus.Candido/matheuslcandido/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.AssemblyInfoInputs.cache
+/home/Matheus.Candido/matheuslcandido/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.AssemblyInfo.cs
+/home/Matheus.Candido/matheuslcandido/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.csproj.CoreCompileInputs.cache
+/home/Matheus.Candido/matheuslcandido/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.dll
+/home/Matheus.Candido/matheuslcandido/csharp-projeto-musical/obj/Debug/net8.0/refint/csharp-projeto-musical.dll
+/home/Matheus.Candido/matheuslcandido/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.pdb
+/home/Matheus.Candido/matheuslcandido/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.genruntimeconfig.cache
+/home/Matheus.Candido/matheuslcandido/csharp-projeto-musical/obj/Debug/net8.0/ref/csharp-projeto-musical.dll
+/home/Matheus.Candido/matheuslcandido/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.sourcelink.json
